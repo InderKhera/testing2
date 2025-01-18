@@ -20,7 +20,7 @@ Before you can come up with a solution, you need to identify a problem. The subj
 
 We identified a dataset on Kaggle: [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). This dataset was clean and there was a previous machine learning model that worked with this dataset that would could compare our model too. We agreed with the previous models created, in that using a Logistic Regression model would be the best course of action, this is due to When looking at the dataset we see that targets are classed in Binary values of 0 if they are Non-Diabetic and 1 if they are Diabetic.
 
-![](welcome/image2.png)
+![](image2.png)
 
 
  We did notice a few things that could have been done differently in prior models which we implemented into our research. The first thing we noticed is the previous models was the inclusion of outliers into the model. This will have negative effects in our model as it will influence the predicitions too much off of these observations. 
