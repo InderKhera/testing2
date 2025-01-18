@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Exploring Diabetes Analysis as a UBC MDS student",
+    "section": "",
+    "text": "When joining the UBC MDS program, the first thing you are made aware of is how fast paced and intense the program can be. Through this fast paced and instense learning, it is normal to feel anxious about if you are retaining the knowledge that you gained after each course ends. This can make you feel concered if you will be ready for working in the Data Science field once you have finished this program.\nThe directors of the MDS program must have realized this as they have created a way for us to gauge our expertise through doing a collaborative project in the course “Data Science Workflows (DSCI 522)”. This course allows us to work in a group to tackle real life problems with machine learning models we have just learned.\nMy reasoning for writing this blog is to show future MDS candidates how much exactly they will have learned in this program by its halfway point using my group’s Diabetes Analysis project as the reference point. Hopefully this will lower the anxiety of future cohorts and let them enjoy the program in the moment rather than stress about the future."
+  },
+  {
+    "objectID": "posts/welcome/index.html#step-1-find-a-problem-that-you-believe-you-can-help-with",
+    "href": "posts/welcome/index.html#step-1-find-a-problem-that-you-believe-you-can-help-with",
+    "title": "Exploring Diabetes Analysis as a UBC MDS student",
+    "section": "Step 1 Find a problem that you believe you can help with",
+    "text": "Step 1 Find a problem that you believe you can help with\nBefore you can come up with a solution, you need to identify a problem. The subject my group chose to work on was Diabetes Anlysis, since all of us were interested in working in the health sector after we graduate. The purpose of our project was to build a machine learning model that accurately predict whether or not the patients in the dataset have diabetes or not."
+  },
+  {
+    "objectID": "posts/welcome/index.html#step-2-find-the-data-and-see-what-would-set-your-research-apart-from-the-rest",
+    "href": "posts/welcome/index.html#step-2-find-the-data-and-see-what-would-set-your-research-apart-from-the-rest",
+    "title": "Exploring Diabetes Analysis as a UBC MDS student",
+    "section": "Step 2 Find the Data and see what would set your research apart from the rest",
+    "text": "Step 2 Find the Data and see what would set your research apart from the rest\nWe identified a dataset on Kaggle: Pima Indians Diabetes Database. This dataset was clean and there was a previous machine learning model that worked with this dataset that would could compare our model too. We agreed with the previous models created, in that using a Logistic Regression model would be the best course of action, this is due to When looking at the dataset we see that targets are classed in Binary values of 0 if they are Non-Diabetic and 1 if they are Diabetic.\n\nWe did notice a few things that could have been done differently in prior models which we implemented into our research. The first thing we noticed is the previous models was the inclusion of outliers into the model. This will have negative effects in our model as it will influence the predicitions too much off of these observations.\nAnother thing we discussed during our"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "e",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Diabetes Analysis as a UBC MDS student\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nInder Khera\n\n\n\n\n\n\nNo matching items"
+  }
+]

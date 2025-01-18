@@ -1,0 +1,28 @@
+---
+title: "Exploring Diabetes Analysis as a UBC MDS student"
+author: "Inder Khera"
+date: "2025-01-18"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+When joining the UBC MDS program, the first thing you are made aware of is how fast paced and intense the program can be. Through this fast paced and instense learning, it is normal to feel anxious about if you are retaining the knowledge that you gained after each course ends. This can make you feel concered if you will be ready for working in the Data Science field once you have finished this program.
+
+The directors of the MDS program must have realized this as they have created a way for us to gauge our expertise through doing a collaborative project in the course "Data Science Workflows (DSCI 522)". This course allows us to work in a group to tackle real life problems with machine learning models we have just learned. 
+
+My reasoning for writing this blog is to show future MDS candidates how much exactly they will have learned in this program by its halfway point using my group's Diabetes Analysis project as the reference point. Hopefully this will lower the anxiety of future cohorts and let them enjoy the program in the moment rather than stress about the future.
+
+## Step 1 Find a problem that you believe you can help with
+
+Before you can come up with a solution, you need to identify a problem. The subject my group chose to work on was Diabetes Anlysis, since all of us were interested in working in the health sector after we graduate. The purpose of our project was to build a machine learning model that accurately predict whether or not the patients in the dataset have diabetes or not.
+
+## Step 2 Find the Data and see what would set your research apart from the rest
+
+We identified a dataset on Kaggle: [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). This dataset was clean and there was a previous machine learning model that worked with this dataset that would could compare our model too. We agreed with the previous models created, in that using a Logistic Regression model would be the best course of action, this is due to When looking at the dataset we see that targets are classed in Binary values of 0 if they are Non-Diabetic and 1 if they are Diabetic.
+
+![](welcome/image2.png)
+
+
+ We did notice a few things that could have been done differently in prior models which we implemented into our research. The first thing we noticed is the previous models was the inclusion of outliers into the model. This will have negative effects in our model as it will influence the predicitions too much off of these observations. 
+
+Another thing we discussed during our 
